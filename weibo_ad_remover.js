@@ -5,8 +5,8 @@
 // @description  去除微博网页版广告
 // @author       TaihouKai
 // @match        https://weibo.com/*
-// @updateURL    https://raw.githubusercontent.com/TaihouKai/weibo-ad-remover/main/weibo_ad_remover.js?1=1
-// @downloadURL  https://raw.githubusercontent.com/TaihouKai/weibo-ad-remover/main/weibo_ad_remover.js?1=1
+// @updateURL    https://raw.githubusercontent.com/TaihouKai/weibo-ad-remover/main/weibo_ad_remover.js?a=1
+// @downloadURL  https://raw.githubusercontent.com/TaihouKai/weibo-ad-remover/main/weibo_ad_remover.js?a=1
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
