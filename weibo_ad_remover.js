@@ -17,7 +17,7 @@
     // Function to check if an element contains a div with ad text
     function containsAdDiv(element) {
         // List of ad keywords to check for
-        const adKeywords = ['荐读', '推荐'];
+        const adKeywords = ['荐读', '推荐', '广告'];
 
         // Check all div descendants
         const divs = element.querySelectorAll('div');
