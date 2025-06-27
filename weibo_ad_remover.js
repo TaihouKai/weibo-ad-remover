@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微博广告去质器
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  去除微博网页版广告
 // @author       TaihouKai
 // @match        https://weibo.com/*
